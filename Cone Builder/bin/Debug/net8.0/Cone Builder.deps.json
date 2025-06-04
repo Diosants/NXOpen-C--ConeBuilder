@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cone Builder/1.0.0": {
+        "dependencies": {
+          "NXOpen": "12.0.2.9",
+          "NXOpen.Guide": "12.0.2.9",
+          "NXOpen.UF": "12.0.2.9",
+          "NXOpen.Utilities": "12.0.2.9",
+          "NXOpenUI": "12.0.2.9"
+        },
+        "runtime": {
+          "Cone Builder.dll": {}
+        }
+      },
+      "NXOpen/12.0.2.9": {
+        "runtime": {
+          "NXOpen.dll": {
+            "assemblyVersion": "12.0.2.9",
+            "fileVersion": "12.0.2.9"
+          }
+        }
+      },
+      "NXOpen.Guide/12.0.2.9": {
+        "runtime": {
+          "NXOpen.Guide.dll": {
+            "assemblyVersion": "12.0.2.9",
+            "fileVersion": "12.0.2.9"
+          }
+        }
+      },
+      "NXOpen.UF/12.0.2.9": {
+        "runtime": {
+          "NXOpen.UF.dll": {
+            "assemblyVersion": "12.0.2.9",
+            "fileVersion": "12.0.2.9"
+          }
+        }
+      },
+      "NXOpen.Utilities/12.0.2.9": {
+        "runtime": {
+          "NXOpen.Utilities.dll": {
+            "assemblyVersion": "12.0.2.9",
+            "fileVersion": "12.0.2.9"
+          }
+        }
+      },
+      "NXOpenUI/12.0.2.9": {
+        "runtime": {
+          "NXOpenUI.dll": {
+            "assemblyVersion": "12.0.2.9",
+            "fileVersion": "12.0.2.9"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cone Builder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NXOpen/12.0.2.9": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NXOpen.Guide/12.0.2.9": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NXOpen.UF/12.0.2.9": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NXOpen.Utilities/12.0.2.9": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NXOpenUI/12.0.2.9": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,26 @@
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\bin\Debug\net8.0\Cone Builder.exe
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\bin\Debug\net8.0\Cone Builder.deps.json
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\bin\Debug\net8.0\Cone Builder.runtimeconfig.json
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\bin\Debug\net8.0\Cone Builder.dll
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\bin\Debug\net8.0\Cone Builder.pdb
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\bin\Debug\net8.0\NXOpen.dll
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\bin\Debug\net8.0\NXOpen.Guide.dll
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\bin\Debug\net8.0\NXOpen.UF.dll
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\bin\Debug\net8.0\NXOpen.Utilities.dll
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\bin\Debug\net8.0\NXOpenUI.dll
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\bin\Debug\net8.0\NXOpen.xml
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\bin\Debug\net8.0\NXOpen.Guide.xml
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\bin\Debug\net8.0\NXOpen.UF.xml
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\bin\Debug\net8.0\NXOpen.Utilities.xml
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\bin\Debug\net8.0\NXOpenUI.xml
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\obj\Debug\net8.0\Cone Builder.csproj.AssemblyReference.cache
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\obj\Debug\net8.0\Cone Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\obj\Debug\net8.0\Cone Builder.AssemblyInfoInputs.cache
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\obj\Debug\net8.0\Cone Builder.AssemblyInfo.cs
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\obj\Debug\net8.0\Cone Builder.csproj.CoreCompileInputs.cache
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\obj\Debug\net8.0\Cone Bui.04DF6093.Up2Date
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\obj\Debug\net8.0\Cone Builder.dll
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\obj\Debug\net8.0\refint\Cone Builder.dll
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\obj\Debug\net8.0\Cone Builder.pdb
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\obj\Debug\net8.0\Cone Builder.genruntimeconfig.cache
+C:\Users\dcard\OneDrive\Desktop\NXOPENC#\Cone Builder\Cone Builder\obj\Debug\net8.0\ref\Cone Builder.dll
